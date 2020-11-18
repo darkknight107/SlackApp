@@ -1,0 +1,12 @@
+D:\InnovationDay\wage-clerk-dotnet-core\WageClerk.Data\bin\Debug\netcoreapp3.1\WageClerk.Data.deps.json
+D:\InnovationDay\wage-clerk-dotnet-core\WageClerk.Data\bin\Debug\netcoreapp3.1\WageClerk.Data.runtimeconfig.json
+D:\InnovationDay\wage-clerk-dotnet-core\WageClerk.Data\bin\Debug\netcoreapp3.1\WageClerk.Data.runtimeconfig.dev.json
+D:\InnovationDay\wage-clerk-dotnet-core\WageClerk.Data\bin\Debug\netcoreapp3.1\WageClerk.Data.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WageClerk.Data\bin\Debug\netcoreapp3.1\WageClerk.Data.pdb
+D:\InnovationDay\wage-clerk-dotnet-core\WageClerk.Data\obj\Debug\netcoreapp3.1\WageClerk.Data.AssemblyInfoInputs.cache
+D:\InnovationDay\wage-clerk-dotnet-core\WageClerk.Data\obj\Debug\netcoreapp3.1\WageClerk.Data.AssemblyInfo.cs
+D:\InnovationDay\wage-clerk-dotnet-core\WageClerk.Data\obj\Debug\netcoreapp3.1\WageClerk.Data.csproj.CoreCompileInputs.cache
+D:\InnovationDay\wage-clerk-dotnet-core\WageClerk.Data\obj\Debug\netcoreapp3.1\WageClerk.Data.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WageClerk.Data\obj\Debug\netcoreapp3.1\WageClerk.Data.pdb
+D:\InnovationDay\wage-clerk-dotnet-core\WageClerk.Data\obj\Debug\netcoreapp3.1\WageClerk.Data.genruntimeconfig.cache
+D:\InnovationDay\wage-clerk-dotnet-core\WageClerk.Data\obj\Debug\netcoreapp3.1\WageClerk.Data.csprojAssemblyReference.cache

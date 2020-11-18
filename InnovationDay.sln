@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WagesClerk", "WagesClerk\WagesClerk.csproj", "{23B4147C-FE05-4562-8E97-FC8C64D0E9B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WageClerk.Data", "WageClerk.Data\WageClerk.Data.csproj", "{1AD94B95-771F-407B-A590-04ED7B42AF34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23B4147C-FE05-4562-8E97-FC8C64D0E9B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B4147C-FE05-4562-8E97-FC8C64D0E9B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B4147C-FE05-4562-8E97-FC8C64D0E9B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B4147C-FE05-4562-8E97-FC8C64D0E9B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AD94B95-771F-407B-A590-04ED7B42AF34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD94B95-771F-407B-A590-04ED7B42AF34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD94B95-771F-407B-A590-04ED7B42AF34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD94B95-771F-407B-A590-04ED7B42AF34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E45086B-9287-4E15-BA5C-15B73496D2E4}
+	EndGlobalSection
+EndGlobal

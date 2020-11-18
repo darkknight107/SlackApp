@@ -1,0 +1,166 @@
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\bin\Debug\netcoreapp3.1\WagesClerk.exe
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\bin\Debug\netcoreapp3.1\WagesClerk.deps.json
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\bin\Debug\netcoreapp3.1\WagesClerk.runtimeconfig.json
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\bin\Debug\netcoreapp3.1\WagesClerk.runtimeconfig.dev.json
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\bin\Debug\netcoreapp3.1\WagesClerk.dll
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\bin\Debug\netcoreapp3.1\WagesClerk.pdb
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.AssemblyInfoInputs.cache
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.AssemblyInfo.cs
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\obj\Debug\netcoreapp3.1\staticwebassets\WagesClerk.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\obj\Debug\netcoreapp3.1\staticwebassets\WagesClerk.StaticWebAssets.xml
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.dll
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.pdb
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.genruntimeconfig.cache
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.csprojAssemblyReference.cache
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\bin\Debug\netcoreapp3.1\SlackBotMessages.dll
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.csproj.CopyComplete
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo Legion Y7000\Desktop\InnovationDay\InnovationDay\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.MvcApplicationPartsAssemblyInfo.cache
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\appsettings.json
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\WagesClerk.exe
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\WagesClerk.deps.json
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\WagesClerk.runtimeconfig.json
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\WagesClerk.runtimeconfig.dev.json
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\WagesClerk.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\WagesClerk.pdb
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\SlackBotMessages.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.csprojAssemblyReference.cache
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.AssemblyInfoInputs.cache
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.AssemblyInfo.cs
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.csproj.CoreCompileInputs.cache
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.MvcApplicationPartsAssemblyInfo.cs
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.MvcApplicationPartsAssemblyInfo.cache
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.RazorTargetAssemblyInfo.cache
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.csproj.CopyComplete
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\obj\Debug\netcoreapp3.1\staticwebassets\WagesClerk.StaticWebAssets.Manifest.cache
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\obj\Debug\netcoreapp3.1\staticwebassets\WagesClerk.StaticWebAssets.xml
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.pdb
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.genruntimeconfig.cache
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\WagesClerk.exe
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\WagesClerk.deps.json
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\WagesClerk.runtimeconfig.json
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\WagesClerk.runtimeconfig.dev.json
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\WagesClerk.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\WagesClerk.pdb
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\SlackBotMessages.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.csprojAssemblyReference.cache
+C:\Users\PC\Documents\wages-clerk\WagesClerk\obj\Debug\netcoreapp3.1\staticwebassets\WagesClerk.StaticWebAssets.Manifest.cache
+C:\Users\PC\Documents\wages-clerk\WagesClerk\obj\Debug\netcoreapp3.1\staticwebassets\WagesClerk.StaticWebAssets.xml
+C:\Users\PC\Documents\wages-clerk\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\wages-clerk\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.AssemblyInfo.cs
+C:\Users\PC\Documents\wages-clerk\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Documents\wages-clerk\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.csproj.CopyComplete
+C:\Users\PC\Documents\wages-clerk\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.pdb
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\WageClerk.Data.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\WageClerk.Data.pdb
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.AutoHistory.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.UnitOfWork.dll
+C:\Users\PC\Documents\wages-clerk\WagesClerk\obj\Debug\netcoreapp3.1\WagesClerk.MvcApplicationPartsAssemblyInfo.cs
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.AutoHistory.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.UnitOfWork.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\WageClerk.Data.dll
+D:\InnovationDay\wage-clerk-dotnet-core\WagesClerk\bin\Debug\netcoreapp3.1\WageClerk.Data.pdb
